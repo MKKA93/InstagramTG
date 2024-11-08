@@ -1,0 +1,25 @@
+# Core dependencies
+python-telegram-bot==13.7
+instaloader==4.9.0
+sqlalchemy==1.4.41
+cryptography==38.0.1
+requests==2.28.1
+python-dotenv==0.21.0
+
+# Optional dependencies
+colorlog==6.7.0
+bcrypt==4.0.1
+jwt==1.3.1
+
+# Development dependencies
+black==22.10.0
+flake8==5.0.4
+mypy==0.982
+pytest==7.2.0
+
+# Security and validation
+email-validator==1.3.0
+phonenumbers==8.12.57
+
+# Logging and monitoring
+sentry-sdk==1.10.1
