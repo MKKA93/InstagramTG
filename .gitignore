@@ -1,0 +1,40 @@
+# Environment files
+.env
+*.env
+
+# Sensitive files
+*.key
+*.pem
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/
+*.log
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Database files
+*.db
+*.sqlite3
+
+# Download and temporary files
+downloads/
+temp/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
